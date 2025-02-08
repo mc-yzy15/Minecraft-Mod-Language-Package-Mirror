@@ -46,7 +46,7 @@
 
 - 手动：
 
-#### **普通用户请到此处下载：[https://mc-yzy15.github.io/TranslationPackMirror/files/](https://mc-yzy15.github.io/TranslationPackMirror/files/)**
+#### **普通用户请到此处下载：[https://mc-yzy15.github.io/Minecraft-Mod-Language-Package-Mirror/files/](https://mc-yzy15.github.io/Minecraft-Mod-Language-Package-Mirror/files/)**
 
 #### 下载时请留意文件后缀对应支持的 MC 版本和 Modloader（也就是Forge、Fabric等）类型。
 
