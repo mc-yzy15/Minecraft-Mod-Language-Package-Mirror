@@ -12,6 +12,7 @@ on:
     - cron: '0 20-22 */1 * *' # Every minute, between 20:00 and 22:59, every days
   repository_dispatch:
     types: [update_resources]
+  workflow_dispatch:
 
 jobs:
   update_resources:
