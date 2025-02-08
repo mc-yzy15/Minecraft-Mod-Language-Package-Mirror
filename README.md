@@ -1,6 +1,6 @@
 # TranslationPackMirror
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com/mc-yzy15/Minecraft-Mod-Language-Package-Mirror&count_bg=%23008080&title_bg=%23008080&icon=&icon_color=%23008080&title=https://github.com/mc-yzy15/Minecraft-Mod-Language-Package-Mirror&edge_flat=false)
+[![HITS OF mc-yzy15/Minecraft-Mod-Language-Package-Mirror/](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmc-yzy15%2FMinecraft-Mod-Language-Package-Mirror%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/mc-yzy15/Minecraft-Mod-Language-Package-Mirror/)
 
 ![](https://github.githubassets.com/images/icons/emoji/tada.png)
 
@@ -12,7 +12,7 @@
 
 **本仓库为 [CFPAOrg/Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) 的非官方镜像源，**
 
-**会自动从 http://downloader1.meitangdehulu.com:22943/ 获取资源并由下面的地址分发下载。~每一小时检查一次更新。~**
+**会自动从 http://downloader1.meitangdehulu.com:22943/ 获取资源并由下面的地址分发下载。~~每一小时检查一次更新。~~**
 
 **更新频率拉低每天 03:00/04:00/05:00 CST (20:00/21:00/22:00 UTC)**
 
